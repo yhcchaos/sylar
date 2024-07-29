@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/yhchaos/sylar/build/thirdpart/yaml-cpp-0.6.3/test/CMakeFiles/googletest_project"
+		},
+		{
+			"file" : "/home/yhchaos/sylar/build/thirdpart/yaml-cpp-0.6.3/test/CMakeFiles/googletest_project.rule"
+		},
+		{
+			"file" : "/home/yhchaos/sylar/build/thirdpart/yaml-cpp-0.6.3/test/CMakeFiles/googletest_project-complete.rule"
+		},
+		{
+			"file" : "/home/yhchaos/sylar/build/thirdpart/yaml-cpp-0.6.3/test/googletest_project-prefix/src/googletest_project-stamp/googletest_project-build.rule"
+		},
+		{
+			"file" : "/home/yhchaos/sylar/build/thirdpart/yaml-cpp-0.6.3/test/googletest_project-prefix/src/googletest_project-stamp/googletest_project-configure.rule"
+		},
+		{
+			"file" : "/home/yhchaos/sylar/build/thirdpart/yaml-cpp-0.6.3/test/googletest_project-prefix/src/googletest_project-stamp/googletest_project-download.rule"
+		},
+		{
+			"file" : "/home/yhchaos/sylar/build/thirdpart/yaml-cpp-0.6.3/test/googletest_project-prefix/src/googletest_project-stamp/googletest_project-install.rule"
+		},
+		{
+			"file" : "/home/yhchaos/sylar/build/thirdpart/yaml-cpp-0.6.3/test/googletest_project-prefix/src/googletest_project-stamp/googletest_project-mkdir.rule"
+		},
+		{
+			"file" : "/home/yhchaos/sylar/build/thirdpart/yaml-cpp-0.6.3/test/googletest_project-prefix/src/googletest_project-stamp/googletest_project-patch.rule"
+		},
+		{
+			"file" : "/home/yhchaos/sylar/build/thirdpart/yaml-cpp-0.6.3/test/googletest_project-prefix/src/googletest_project-stamp/googletest_project-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"googletest_project"
+		],
+		"name" : "googletest_project"
+	}
+}

@@ -37,10 +37,10 @@
 #include "uri.h"
 #include "util.h"
 #include "worker.h"
-
+#include "db/fox_thread.h"
 #include "db/db.h"
 #include "db/mysql.h"
-#include "db/sqlite3.h"
+// #include "db/sqlite3.h"
 
 #include "ds/cache_status.h"
 #include "ds/lru_cache.h"
@@ -74,7 +74,7 @@
 #include "streams/socket_stream.h"
 #include "streams/zlib_stream.h"
 
-#include "util/crypto_util.h"
+// #include "util/crypto_util.h"
 #include "util/hash_util.h"
 #include "util/json_util.h"
 

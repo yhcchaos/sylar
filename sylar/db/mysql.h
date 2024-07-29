@@ -1,7 +1,7 @@
 #ifndef __SYLAR_DB_MYSQL_H__
 #define __SYLAR_DB_MYSQL_H__
 
-#include <mysql/mysql.h>
+#include <mysql.h>
 #include <memory>
 #include <functional>
 #include <map>

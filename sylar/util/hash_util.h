@@ -4,7 +4,6 @@
 #include <stdint.h>
 #include <string>
 #include <vector>
-
 namespace sylar {
 
 uint32_t murmur3_hash(const char * str, const uint32_t & seed = 1060627423);
